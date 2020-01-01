@@ -9,6 +9,8 @@ namespace CShape_Demo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hellow world");
+            Console.ReadLine();
         }
     }
 }
